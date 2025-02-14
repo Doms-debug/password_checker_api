@@ -1,0 +1,1 @@
+This project uses pwnedpasswords.com api to check if your password has been exposed in any cyberattack and if so, it will also show how many times. You will also need to make sure you have installed the requests module from PyPi (pip install)
